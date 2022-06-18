@@ -1,16 +1,12 @@
-### Hi there 👋
+## Olá! Eu sou o LuizFSvr 
+### Atualmente estudando C++ em Análise e Desenvolvimento de Sistemas
+<div style="display: inline_block"><br>
+            <img align="center" alt="luiz-py" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+            <img align="center" alt="luiz-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img align="center" alt="luiz-c++" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</div><br>
 
-<!--
-**LuizFSvr/LuizFSvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizfsvr/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuizFSvr)<br>
+<br>
+💬 "É curioso como as cores do mundo real só parecem verdadeiras quando você as vê na tela."
