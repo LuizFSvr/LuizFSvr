@@ -1,8 +1,8 @@
 ## Olá! Eu sou o LuizFSvr 
 ### Atualmente estudando C e Python em Análise e Desenvolvimento de Sistemas
 <div style="display: inline_block"><br>
-            <img align="center" alt="luiz-py" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
             <img align="center" alt="luiz-c" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+            <img align="center" alt="luiz-py" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizfsvr/)
