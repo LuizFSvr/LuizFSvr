@@ -1,8 +1,7 @@
 ## Olá! Eu sou o LuizFSvr 
-### Atualmente estudando C em Análise e Desenvolvimento de Sistemas
+### Atualmente estudando C e Python em Análise e Desenvolvimento de Sistemas
 <div style="display: inline_block"><br>
             <img align="center" alt="luiz-py" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-            <img align="center" alt="luiz-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             <img align="center" alt="luiz-c" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div><br>
 
