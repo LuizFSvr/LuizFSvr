@@ -1,6 +1,6 @@
 ## Olá! Eu sou o LuizFSvr
 
-### Atualmente estudando Análise e Desenvolvimento de Sistemas
+
 
 <!-- <div style="display: inline_block"><br>
             <img align="center" alt="luiz-c" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -23,3 +23,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luizfsvr/)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@luizfsvr)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/LuizFSvr)
+
